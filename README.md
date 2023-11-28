@@ -9,7 +9,7 @@
 </p>
 
 <ul>
-  <li>- 🔭 I'm currently working on [Point of sale (POS) Application] <a href="https://ss-service-advanced.04partners-dev.com/login" target="blank">Website</a></li>
+  <li>- 🔭 I'm currently working on [Point of sale (POS) Application] <a href="https://ss-service-advanced.04partners-dev.com/login" target="blank">Project Link</a></li>
   <li>- 🌱 I'm currently learning **Java, Vue.js, and serve as an AI prompt engineer, continually enhance my Data Structures and Algorithms (DSA) skills.**</li>
   <li>- 👨‍💻 All of my projects are available at <a href="https://mohanraj-dev.netlify.app/" target="blank">Checkout My Website</a></li>
   <li>- 💬 Ask me about **JavaScript, React, TypeScript, Next.js, Node.js, and AWS**</li>
