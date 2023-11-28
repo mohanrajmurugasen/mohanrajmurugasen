@@ -29,7 +29,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="mohanrajProfileImage"
       height="40"
       width="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
   /></a>
   <a href="https://linkedin.com/in/mohanrajmurugasen" target="blank"
     ><img
@@ -38,7 +38,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="mohanrajmurugasen"
       height="40"
       width="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
   /></a>
   <a href="https://stackoverflow.com/users/17737494" target="blank"
     ><img
@@ -47,7 +47,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="17737494"
       height="40"
       width="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
   /></a>
   <a href="https://www.leetcode.com/mohanraj_murugasen" target="blank"
     ><img
@@ -72,7 +72,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="amplify"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -86,7 +86,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="aws"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -100,7 +100,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="babel"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -114,7 +114,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="bootstrap"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -128,7 +128,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="chartjs"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -142,7 +142,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="css3"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -156,7 +156,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="cypress"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -170,7 +170,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="d3js"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -184,7 +184,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="docker"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -198,7 +198,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="express"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -212,7 +212,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="figma"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -226,7 +226,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="firebase"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -240,7 +240,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="gcp"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -254,7 +254,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="git"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -268,7 +268,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="graphql"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -282,7 +282,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="html5"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -296,7 +296,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="java"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -310,7 +310,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="javascript"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -324,7 +324,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="jenkins"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -338,7 +338,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="jest"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -352,7 +352,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="kubernetes"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -366,7 +366,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="mongodb"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -380,7 +380,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="mysql"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -394,7 +394,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="nextjs"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -408,7 +408,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="nodejs"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -422,7 +422,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="postgresql"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -436,7 +436,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="postman"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -450,7 +450,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="react"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -464,7 +464,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="reactnative"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -478,7 +478,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="redux"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -492,7 +492,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="sass"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -506,7 +506,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="tailwind"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
@@ -520,7 +520,7 @@ design captivating frontends, merging code and creativity seamlessly.**
       alt="typescript"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 20px"
     />
   </a>
   <a
