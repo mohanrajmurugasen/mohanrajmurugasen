@@ -9,12 +9,12 @@
 </p>
 
 <ul>
-  <li>- 🔭 I'm currently working on [Point of sale (POS) Application](https://ss-service-advanced.04partners-dev.com/login)</li>
+  <li>- 🔭 I'm currently working on [Point of sale (POS) Application] <a href="https://ss-service-advanced.04partners-dev.com/login" target="blank">Website</a></li>
   <li>- 🌱 I'm currently learning **Java, Vue.js, and serve as an AI prompt engineer, continually enhance my Data Structures and Algorithms (DSA) skills.**</li>
-  <li>- 👨‍💻 All of my projects are available at [https://mohanraj-dev.netlify.app/](https://mohanraj-dev.netlify.app/)</li>
+  <li>- 👨‍💻 All of my projects are available at <a href="https://mohanraj-dev.netlify.app/" target="blank">Checkout My Website</a></li>
   <li>- 💬 Ask me about **JavaScript, React, TypeScript, Next.js, Node.js, and AWS**</li>
   <li>- 📫 How to reach me **mohanraj.mv.99@gmail.com**</li>
-  <li>- 📄 Know about my experiences [https://mohanraj-dev.netlify.app/resume](https://mohanraj-dev.netlify.app/resume)</li>
+  <li>- 📄 Know about my experiences <a href="https://mohanraj-dev.netlify.app/resume" target="blank">Resume</a></li>
   <li>- ⚡ Fun fact **🚀 As a full-stack engineer, I architect robust backends and design captivating frontends, merging code and creativity seamlessly.**</li>
 </ul>
 
@@ -63,14 +63,14 @@
     href="https://aws.amazon.com/amplify/"
     target="_blank"
     rel="noreferrer"
-    style="text-decoration: none !important;"
+    style="text-decoration: none"
   >
     <img
       src="https://docs.amplify.aws/assets/logo-dark.svg"
       alt="amplify"
       width="40"
       height="40"
-      style="margin-right: 20px !important;"
+      style="margin-right: 20px"
     />
   </a>
   <a
