@@ -8,8 +8,8 @@
   />
 </p>
 
-- 🔭 I’m currently working on [Point of sale (POS)
-Application](https://ss-service-advanced.04partners-dev.com/login) - 🌱 I’m
+- 🔭 I'm currently working on [Point of sale (POS)
+Application](https://ss-service-advanced.04partners-dev.com/login) - 🌱 I'm
 currently learning **Java, Vue.js, and serve as an AI prompt engineer,
 continually enhance my Data Structures and Algorithms (DSA) skills.** - 👨‍💻 All
 of my projects are available at
