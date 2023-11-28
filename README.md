@@ -15,6 +15,7 @@
   <li>- 💬 Ask me about **JavaScript, React, TypeScript, Next.js, Node.js, and AWS**</li>
   <li>- 📫 How to reach me **mohanraj.mv.99@gmail.com**</li>
   <li>- 📄 Know about my experiences <a href="https://mohanraj-dev.netlify.app/resume" target="blank">Resume</a></li>
+  <li>- 🤝✨ Let's Code Together: Schedule a Collaboration Session with a Full-Stack Enthusiast</li>
   <li>- ⚡ Fun fact **🚀 As a full-stack engineer, I architect robust backends and design captivating frontends, merging code and creativity seamlessly.**</li>
 </ul>
 
