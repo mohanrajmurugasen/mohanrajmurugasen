@@ -63,14 +63,14 @@
     href="https://aws.amazon.com/amplify/"
     target="_blank"
     rel="noreferrer"
-    style="text-decoration: none;"
+    style="text-decoration: none !important;"
   >
     <img
       src="https://docs.amplify.aws/assets/logo-dark.svg"
       alt="amplify"
       width="40"
       height="40"
-      style="margin-right: 20px;"
+      style="margin-right: 20px !important;"
     />
   </a>
   <a
