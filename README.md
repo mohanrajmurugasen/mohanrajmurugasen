@@ -8,17 +8,13 @@
   />
 </p>
 
-- 🔭 I'm currently working on [Point of sale (POS)
-Application](https://ss-service-advanced.04partners-dev.com/login) - 🌱 I'm
-currently learning **Java, Vue.js, and serve as an AI prompt engineer,
-continually enhance my Data Structures and Algorithms (DSA) skills.** - 👨‍💻 All
-of my projects are available at
-[https://mohanraj-dev.netlify.app/](https://mohanraj-dev.netlify.app/) - 💬 Ask
-me about **JavaScript, React, TypeScript, Next.js, Node.js, and AWS** - 📫 How
-to reach me **mohanraj.mv.99@gmail.com** - 📄 Know about my experiences
-[https://mohanraj-dev.netlify.app/resume](https://mohanraj-dev.netlify.app/resume)
-- ⚡ Fun fact **🚀 As a full-stack engineer, I architect robust backends and
-design captivating frontends, merging code and creativity seamlessly.**
+- 🔭 I'm currently working on [Point of sale (POS) Application](https://ss-service-advanced.04partners-dev.com/login) 
+- 🌱 I'm currently learning **Java, Vue.js, and serve as an AI prompt engineer, continually enhance my Data Structures and Algorithms (DSA) skills.** 
+- 👨‍💻 All of my projects are available at [https://mohanraj-dev.netlify.app/](https://mohanraj-dev.netlify.app/) 
+- 💬 Ask me about **JavaScript, React, TypeScript, Next.js, Node.js, and AWS** 
+- 📫 How to reach me **mohanraj.mv.99@gmail.com** 
+- 📄 Know about my experiences [https://mohanraj-dev.netlify.app/resume](https://mohanraj-dev.netlify.app/resume)
+- ⚡ Fun fact **🚀 As a full-stack engineer, I architect robust backends and design captivating frontends, merging code and creativity seamlessly.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
