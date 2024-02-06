@@ -11,20 +11,20 @@
 <ul>
   <li>- 🔭 I'm currently working on [Point of sale (POS) Application] <a href="https://ss-service-advanced.04partners-dev.com/login" target="blank">Project Link</a></li>
   <li>- 🌱 I'm currently learning **Java, Vue.js, and serve as an AI prompt engineer, continually enhance my Data Structures and Algorithms (DSA) skills.**</li>
-  <li>- 👨‍💻 All of my projects are available at <a href="https://mohanraj-dev.netlify.app/" target="blank">Checkout My Website</a></li>
+  <li>- 👨‍💻 All of my projects are available at <a href="https://mohanrajdev.netlify.app/" target="blank">Checkout My Website</a></li>
   <li>- 💬 Ask me about **JavaScript, React, TypeScript, Next.js, Node.js, and AWS**</li>
   <li>- 📫 How to reach me **mohanraj.mv.99@gmail.com**</li>
-  <li>- 📄 Know about my experiences <a href="https://mohanraj-dev.netlify.app/resume" target="blank">Resume</a></li>
+  <li>- 📄 Know about my experiences <a href="https://mohanrajdev.netlify.app/resume" target="blank">Resume</a></li>
   <li>- 🤝✨ Let's Code Together: Schedule a Collaboration Session with a Full-Stack Enthusiast <a href="https://calendly.com/mohanraj-mv-99/30min?month=2023-11" target="blank">Connect with me.</a></li>
   <li>- ⚡ Fun fact **🚀 As a full-stack engineer, I architect robust backends and design captivating frontends, merging code and creativity seamlessly.**</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://mohanraj-dev.netlify.app/" target="blank"
+  <a href="https://mohanrajdev.netlify.app/" target="blank"
     ><img
       align="center"
-      src="https://mohanraj-dev.netlify.app/static/media/Mohanraj.34dd71b8879125e26695.png"
+      src="https://mohanrajdev.netlify.app/static/media/Mohanraj.34dd71b8879125e26695.png"
       alt="mohanrajProfileImage"
       height="40"
       width="40"
