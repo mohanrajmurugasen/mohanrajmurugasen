@@ -95,7 +95,7 @@
     style="text-decoration: none"
   >
     <img
-      src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1200px-Babel_Logo.svg.png"
       alt="babel"
       width="40"
       height="40"
