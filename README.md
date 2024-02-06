@@ -305,7 +305,7 @@
     style="text-decoration: none"
   >
     <img
-      src="https://react-etc.net/files/2016-06/javascript-logo.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
       alt="javascript"
       width="40"
       height="40"
